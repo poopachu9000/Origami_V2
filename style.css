@@ -1,0 +1,21 @@
+.header{
+display:flex;
+justify-content: space-evenly;
+color:aliceblue;
+background-color:darkslategray;
+}
+.grid{
+    display:flex;
+justify-content: space-evenly;
+ 
+    border: 20px solid black;
+    border-radius:50px;
+
+}
+.origami{
+    
+    border-radius:20px;
+background-color: whitesmoke;
+width: 210px;
+font-family: fantasy;
+}
